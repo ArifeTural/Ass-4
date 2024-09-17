@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+
+
+body{
+    background: 
+    linear-gradient(to right, rgb(68, 20, 57) 0%, 29.743083003952567%, rgb(129, 93, 115) 53.140097856521606%, 58.81642699241638%, rgb(81, 8, 63) 64.49275612831116%, 70.77294886112213%, rgb(58, 20, 37) 77.0531415939331%, 88.52657079696655%, rgb(3, 1, 0) 100%);
+    ;
+    
+    
+}
+
+h1{
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: 4rem;
+    font-weight: 900;
+    color: blanchedalmond;
+    margin-top: 2rem;
+
+}
+
+.endis{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+gap: 2rem;
+padding: 2rem;
+}
+
+.card-body{
+     background: 
+    linear-gradient(to right, rgb(68, 20, 57) 0%, 29.743083003952567%, rgb(129, 93, 115) 53.140097856521606%, 58.81642699241638%, rgb(146, 120, 140) 64.49275612831116%, 70.77294886112213%, rgb(156, 144, 149) 77.0531415939331%, 88.52657079696655%, rgb(218, 177, 192) 100%);;
+    color: antiquewhite;
+    border: 2px solid rgba(255, 0, 0, 0);
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+    box-shadow: 5px 5px  ;
+    
+}
+.btn{
+   
+    border-radius: 50px;
+    font-size: 1.8rem !important;
+}
+
+.card{
+    border: none!important;
+}
+
+.baslik{
+ font-size: 1.5rem;
+
+}
+
